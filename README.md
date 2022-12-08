@@ -25,3 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Link:
 https://dev.to/vcpablo/vuejs-recursive-components-2549
+
+Dynamic image src
+https://stackoverflow.com/questions/40491506/vue-js-dynamic-images-not-working
